@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Disallow: /order 
+Disallow: /flight
+Disallow: /manage-account
+Disallow: /admin
+Disallow: /work-with-us/manage-account
+Disallow: /work-with-us/order
+Disallow: /work-with-us/package
+Disallow: /work-with-us/register 
+Disallow: /*? 
+
+Sitemap: https://umrah-express.com/sitemap.xml
