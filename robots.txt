@@ -11,4 +11,4 @@ Disallow: /work-with-us/package
 Disallow: /work-with-us/register 
 Disallow: /*? 
 
-Sitemap: https://umrah-express.com/sitemap.xml
+Sitemap: https://umrah-express.com/sitemap_index.xml
