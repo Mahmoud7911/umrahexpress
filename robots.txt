@@ -8,6 +8,5 @@ Disallow: /admin
 Disallow: /work-with-us/manage-account
 Disallow: /work-with-us/order
 Disallow: /work-with-us/package
- 
 
 Sitemap: https://umrah-express.com/sitemap_index.xml
