@@ -2,15 +2,16 @@
 
 ## Cloudflare Redirect Rule
 
-**Expression (Match Condition):**
+### Expression
 len(http.request.uri.args["lang"]) > 0
-and lower(http.request.uri.args["lang"][0]) in {"en", "fr", "de", "it", "es", "ar"}
+and lower(http.request.uri.args["lang"][0]) in {"en" "fr" "de" "it" "es" "ar"}
 
-**Redirect URL:**
+### Redirect URL
 concat(
   "https://umrah-express.com/",
   lower(http.request.uri.args["lang"][0]),
   http.request.uri.path
 )
 
-**Redirect Type:** 301 (Permanent)
+### Settings
+- Redirect Type: 301 Permanent
