@@ -2,15 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://umrah-express.com/</loc>
+    <loc>https://umrah-express.com/en/</loc>
   </url>
 
   <url>
-    <loc>https://umrah-express.com/package</loc>
+    <loc>https://umrah-express.com/en/package</loc>
   </url>
 
   <url>
-    <loc>https://umrah-express.com/package/details/a08f4a14-b5e9-4a40-b57e-73df7363e58a</loc>
+    <loc>https://umrah-express.com/en/package/details/a08f4a14-b5e9-4a40-b57e-73df7363e58a</loc>
+  </url>
+
+<url>
+    <loc>https://umrah-express.com/en/hajj-umrah</loc>
   </url>
 
 </urlset>
