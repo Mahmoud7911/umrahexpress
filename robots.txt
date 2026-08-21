@@ -7,4 +7,4 @@ Disallow: */manage-account
 Disallow: */admin
 Disallow: */work-with-us/package
 
-Sitemap: https://umrah-express.com/sitemap.xml
+Sitemap: https://umrah-express.com/sitemap_index.xml
