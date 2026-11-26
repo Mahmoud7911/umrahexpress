@@ -46,7 +46,6 @@
       "@type": "WebSite",
       "@id": "https://umrah-express.com/#website",
       "name": "Umrah Express",
-      "alternateName": "عمرة إكسبرس",
       "url": "https://umrah-express.com/",
       "publisher": {
         "@id": "https://umrah-express.com/#organization"
