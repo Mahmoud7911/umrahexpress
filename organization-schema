@@ -1,0 +1,66 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://umrah-express.com/#organization",
+      "name": "Umrah Express",
+      "legalName": "Umrah Express",
+      "alternateName": "عمرة إكسبرس",
+      "url": "https://umrah-express.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://umrah-express.com/public/icons/LogoNew.svg"
+      },
+      "description": "Plan your Umrah with experienced travel specialists. From tailored packages and flights to hotels, transport, visa assistance, and guided visits, find everything in one place.",
+      "email": "support@umrah-express.com",
+      "telephone": "+390235984812",
+      "sameAs": [
+        "https://www.facebook.com/umrahexpress.ita",
+        "https://www.tiktok.com/@umrahexpress",
+        "https://www.instagram.com/umrahexpress.eng/",
+        "https://www.instagram.com/umrahexpress.ita"
+      ],
+      "knowsAbout": [
+        "Hajj",
+        "Umrah",
+        "Hajj and Umrah Travel Planning",
+        "Hajj and Umrah Visa Assistance",
+        "Group Hajj and Umrah Travel",
+        "Accessible Hajj and Umrah Travel"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+390235984812",
+        "email": "support@umrah-express.com",
+        "contactType": "customer service",
+        "availableLanguage": [
+          "Arabic",
+          "English",
+          "Italian"
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://umrah-express.com/#website",
+      "name": "Umrah Express",
+      "alternateName": "عمرة إكسبرس",
+      "url": "https://umrah-express.com/",
+      "publisher": {
+        "@id": "https://umrah-express.com/#organization"
+      },
+      "inLanguage": [
+        "ar",
+        "en",
+        "it",
+        "de",
+        "es",
+        "nl",
+        "fr"
+      ]
+    }
+  ]
+}
+</script>
